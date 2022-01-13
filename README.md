@@ -1,3 +1,3 @@
 # go-example
-code fragments for go
-junior go tutorials
+code fragments for go  
+Junior go tutorials
